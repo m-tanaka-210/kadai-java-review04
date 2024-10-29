@@ -1,4 +1,4 @@
-package Animal;
+package animal;
 
 public class Human extends Animal implements Thinkable {
     private String hobby; // 趣味
